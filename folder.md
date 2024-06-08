@@ -1,5 +1,5 @@
 - onedrive
 - file folder links
-  - contain slide picturec, bookmark.html, demo videos, etc...
+  - contain slide pictures, bookmark.html, demo videos, etc...
   - read only, not allowed for editing/downloading
   - [AWS AI_cloudflare server workshop_0605](https://1drv.ms/f/c/ad5402899a8c34fb/EkZ6ErUytU5Mn446iJy6N50B55mT5r8tdjoBPcjNXE-S1A?e=2BaTOs)
